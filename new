@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 second file to edit the datai
 
 i changed this in local master branch
+=======
+second file to edit the data
+
+
+
+git rebase data from remote master branch
+>>>>>>> 601a86f38cf7fb21b730612fd4916dcfd2921c98
